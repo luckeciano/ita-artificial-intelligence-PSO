@@ -4,7 +4,7 @@
 #include <cmath>
 #include <cstdlib>
 using namespace std;
-
+//
 
 
 #define BEST_VALUE_EIGHT_QUEENS 55
